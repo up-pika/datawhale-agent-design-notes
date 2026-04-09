@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS / temp
+*.tmp
+.cache/
