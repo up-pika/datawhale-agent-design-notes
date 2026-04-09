@@ -10,6 +10,7 @@
 ## 内容说明
 
 - `notes/`：按主题或章节组织的 Markdown 笔记
+- 文前/导读整理见 [`notes/01-preface-and-intro.md`](notes/01-preface-and-intro.md)
 - 欢迎通过 Issue / PR 指正与补充（若你 fork 自用，也可仅作个人归档）
 
 ## 本地使用
