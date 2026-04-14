@@ -30,7 +30,7 @@
 | 序号 | 主题 | 笔记文件 | 状态 |
 |------|------|----------|------|
 | 0 | 文前与导读（题记、序言、导读） | [01-preface-and-intro.md](01-preface-and-intro.md) | 已整理 |
-| 1 | （正篇第 1 课起，按平台目录填写） | | 未开始 |
+| 1 | 第 3 章 Task 1：Agent 的本质（从工具到伙伴） | [02-task1-agent-essence-tool-to-partner.md](02-task1-agent-essence-tool-to-partner.md) | 已整理 |
 
 ## 关键概念速查
 
