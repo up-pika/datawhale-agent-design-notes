@@ -8,3 +8,10 @@
 - `01-xxx.md`、`02-xxx.md` — 各章笔记
 
 可在每篇笔记开头使用简短元信息（日期、对应课时），便于日后检索。
+
+## 笔记索引
+
+- [00-outline.md](00-outline.md)
+- [01-preface-and-intro.md](01-preface-and-intro.md)
+- [02-task1-agent-essence-tool-to-partner.md](02-task1-agent-essence-tool-to-partner.md)
+- [03-task2-agent-mind-architecture-perception-reasoning-action-loop.md](03-task2-agent-mind-architecture-perception-reasoning-action-loop.md)
