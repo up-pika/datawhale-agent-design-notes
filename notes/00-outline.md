@@ -33,6 +33,7 @@
 | 1 | 第 3 章 Task 1：Agent 的本质（从工具到伙伴） | [02-task1-agent-essence-tool-to-partner.md](02-task1-agent-essence-tool-to-partner.md) | 已整理 |
 | 2 | 【Task2】Agent 心智架构：感知-推理-行动循环 | [03-task2-agent-mind-architecture-perception-reasoning-action-loop.md](03-task2-agent-mind-architecture-perception-reasoning-action-loop.md) | 已整理 |
 | 3 | 【Task3】协作的“语法”：多Agent系统的编排 | [04-task3-collaboration-grammar-multi-agent-orchestration.md](04-task3-collaboration-grammar-multi-agent-orchestration.md) | 已整理 |
+| 4 | 【Task4】新的契约：人机协作的设计原则 | [05-task4-new-contract-human-ai-collaboration-principles.md](05-task4-new-contract-human-ai-collaboration-principles.md) | 已整理 |
 
 ## 关键概念速查
 

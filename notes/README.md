@@ -16,3 +16,4 @@
 - [02-task1-agent-essence-tool-to-partner.md](02-task1-agent-essence-tool-to-partner.md)
 - [03-task2-agent-mind-architecture-perception-reasoning-action-loop.md](03-task2-agent-mind-architecture-perception-reasoning-action-loop.md)
 - [04-task3-collaboration-grammar-multi-agent-orchestration.md](04-task3-collaboration-grammar-multi-agent-orchestration.md)
+- [05-task4-new-contract-human-ai-collaboration-principles.md](05-task4-new-contract-human-ai-collaboration-principles.md)
